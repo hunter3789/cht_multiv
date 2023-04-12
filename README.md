@@ -6,3 +6,5 @@ Dynamic Multi Weather Chart Viewer on GIS System
 - Support Multiple Map Projection
 
 [Demo GIF]
+
+Using Weather Chart Image API to get Images
