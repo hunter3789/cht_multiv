@@ -10,7 +10,7 @@ Dynamic Multi Weather Chart Viewer on GIS System
 
 [Demo Image2] (https://hunter3789.github.io/cht_multiv/image/demo_image2.gif)
 
-
+----------------------------------------------------------
 Using Weather Chart Image API to get Images
 
 
