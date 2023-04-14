@@ -11,4 +11,4 @@
 
 **Using Weather Chart Image API to get Images**
 
-[Link] (https://hunter3789.github.io/cht_multiv/image/demo_image1.png)
+[Link] (https://github.com/hunter3789/cht_afs_img)
