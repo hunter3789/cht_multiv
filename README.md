@@ -8,7 +8,8 @@
 [Demo image 1]
 <img src="https://hunter3789.github.io/cht_multiv/image/demo_image1.png">
 
-[Demo image 2] (https://hunter3789.github.io/cht_multiv/image/demo_image2.gif)
+[Demo image 2]
+<img src="https://hunter3789.github.io/cht_multiv/image/demo_image2.gif">
 
 **Using Weather Chart Image API to get Images**
 
